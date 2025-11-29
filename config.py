@@ -1,0 +1,17 @@
+﻿BOT_TOKEN = ''
+BOT_NAME = ''
+BOT_URL = 'https://t.me/testBot'
+ADMIN_ID = [4343343434, 68410694444]
+
+DB_LITE = "sqlite+aiosqlite:///./database.db"
+
+SUPPORT_URL = "https://t.me/sample"
+
+SELENIUM_HEADLESS = True
+
+TWITCH_CLIENT_ID = ""
+TWITCH_ACCESS_TOKEN = ""
+
+YOOMONEY_WALLET_ID = ""
+YOOMONEY_ACCESS_TOKEN = ""
+YOOMONEY_NOTIFICATION_SECRET = ""
